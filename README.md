@@ -1,1 +1,1 @@
-JDA Discord Bot Template for AP Bot
+PLEASE HELP PSYCH STUDYBOT
