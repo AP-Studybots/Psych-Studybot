@@ -1,1 +1,1 @@
-PLEASE HELP PSYCH STUDYBOT
+JDA discord bot to help uses with AP Psychology
