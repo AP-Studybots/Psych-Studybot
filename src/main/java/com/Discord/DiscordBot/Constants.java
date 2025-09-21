@@ -11,10 +11,12 @@ import java.util.Arrays;
 public class Constants {
 
     // Change these prefixes to the said AP prefix. Ex: for AP HAG, change prefix to !hag and slashPrefix to hag.
-    public static String prefix = "!csa";
-    public static String slashPrefix = "csa"; // Yea you have to put a / before this everytime
+    public static String prefix = "!psych";
+    public static String slashPrefix = "psych"; // Yea you have to put a / before this everytime
 
-    public static int numUnits = 4; // The number of units the course has. Max of 25 units or else options crash
+    public static int numUnits = 9; // The number of units the course has. Max of 25 units or else options crash
+
+    // I didnt change anything up to here
 
     public static int unitQuestionTimeoutInMinutes = 3; // (No Change) - Should be 3
     public static int unitQuestionIntervalCheckInSeconds = 30; // (No Change) - Should be 30
